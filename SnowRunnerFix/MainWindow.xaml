@@ -1,0 +1,35 @@
+﻿<Window x:Class="SnowRunnerFix.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SnowRunnerFix"
+        mc:Ignorable="d"
+        Title="SnowRunnerFix" Height="250" Width="500" MinWidth="500" MinHeight="200" Closing="Window_Closing">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Resources/Background.jpg" Stretch="Fill" TileMode="None"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150*"/>
+            <ColumnDefinition Width="150*"/>
+        </Grid.ColumnDefinitions>
+        <Button Style="{StaticResource MyButtonStyle}" MinHeight="35" x:Name="CloseExp_Button" Content="Close Explorer.exe" Click="CloseExp_Button_Click" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button.Background>
+                <ImageBrush ImageSource="Resources/Close.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button Style="{StaticResource MyButtonStyle}" MinHeight="35" x:Name="StartExp_Button" Grid.Column="1" Content="Start Explorer.exe" Click="StartExp_Button_Click" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button.Background>
+                <ImageBrush ImageSource="Resources/Open.jpg"/>
+            </Button.Background>
+        </Button>
+        <Grid Grid.Row="1" Grid.ColumnSpan="2">
+            <Label x:Name="Clocks" Content="00:00:00" Background="#FF1F1D1D" Foreground="White" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+        </Grid>
+    </Grid>
+</Window>

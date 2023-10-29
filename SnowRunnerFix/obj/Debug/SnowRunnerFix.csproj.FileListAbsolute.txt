@@ -1,0 +1,16 @@
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\bin\Debug\SnowRunnerFix.exe.config
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\bin\Debug\SnowRunnerFix.exe
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\bin\Debug\SnowRunnerFix.pdb
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\SnowRunnerFix.csproj.AssemblyReference.cache
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\MainWindow.g.cs
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\App.g.cs
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\SnowRunnerFix_MarkupCompile.cache
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\SnowRunnerFix_MarkupCompile.lref
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\MainWindow.baml
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\SnowRunnerFix.g.resources
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\SnowRunnerFix.Properties.Resources.resources
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\SnowRunnerFix.csproj.GenerateResource.cache
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\SnowRunnerFix.csproj.CoreCompileInputs.cache
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\SnowRunnerFix.exe
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\SnowRunnerFix.pdb
+C:\Users\79871\Desktop\SnowRunnerFix\SnowRunnerFix\obj\Debug\App.baml
