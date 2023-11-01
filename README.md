@@ -8,3 +8,4 @@ Download (if you don't want to build the project yourself)
 
 # P.S.
  The visual part is presented in the form of two buttons that open and close "explorer.exe" forcibly.
+ Relevant for the version from Microsoft Store / Xbox (for PC)
