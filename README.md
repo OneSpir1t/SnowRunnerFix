@@ -7,6 +7,9 @@
 Download .exe file (if you don't want to build the project yourself)
 - .exe file [Download](https://github.com/OneSpir1t/SnowRunnerFix/blob/b4a68f0242ce6c06afabcff6f845b9ac1e1788c4/SnowRunnerFix/bin/Release/SnowRunnerFix.exe)
 
+# About Fix
+This fix was made due to the error -1058406399, for which there is no information on the Internet, the only solution for me was to create this application. Besides, when I started using the fix, I didn't have a single mistake yet.
+
 # P.S.
  The visual part is presented in the form of two buttons that open and close "explorer.exe" forcibly.
 
