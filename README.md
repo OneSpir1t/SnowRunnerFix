@@ -2,7 +2,7 @@
  Fix for SnowRunner
 # Before launching SnowRunner, run this fix
  This fix helps to solve the problem of departure in the SnowRunner game, since the game conflicts with "explorer.exe". In short, the application automatically closes "explorer.exe" when you launch the game, and also launches if you quit.
- Let me know if other Xbox | Microsoft store games are not working stably with "explorer.exe". I will add it to this fix.
+ Let me know if other Xbox | Microsoft store games are not working stably with "explorer.exe", i will add it to this fix.
 
 Download .exe file (if you don't want to build the project yourself)
 - .exe file [Download](https://github.com/OneSpir1t/SnowRunnerFix/blob/7e1c19e02c2ba7c4b441527fcf2794453196e688/SnowRunnerFix/bin/Release/SnowRunnerFix.exe)
