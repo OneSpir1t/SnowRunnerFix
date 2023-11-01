@@ -5,7 +5,7 @@
  Let me know if other Xbox | Microsoft store games are not working stably with "explorer.exe", i will add it to this fix.
 
 Download .exe file (if you don't want to build the project yourself)
-- .exe file [Download](https://github.com/OneSpir1t/SnowRunnerFix/blob/7e1c19e02c2ba7c4b441527fcf2794453196e688/SnowRunnerFix/bin/Release/download/SnowRunnerFix.exe)
+- .exe file [Download](https://github.com/OneSpir1t/SnowRunnerFix/SnowRunnerFix/bin/Release/download/SnowRunnerFix.exe)
 
 # P.S.
  The visual part is presented in the form of two buttons that open and close "explorer.exe" forcibly.
