@@ -11,4 +11,4 @@ Download .exe file (if you don't want to build the project yourself)
  The visual part is presented in the form of two buttons that open and close "explorer.exe" forcibly.
  Relevant for the version from Microsoft Store / Xbox (for PC)
  
- 
+[Discord](danya_007)
