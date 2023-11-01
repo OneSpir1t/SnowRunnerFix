@@ -9,6 +9,10 @@ Download .exe file (if you don't want to build the project yourself)
 
 # P.S.
  The visual part is presented in the form of two buttons that open and close "explorer.exe" forcibly.
- Relevant for the version from Microsoft Store / Xbox (for PC)
+ Relevant for the version from Microsoft Store / Xbox (for PC).
 
-Discord: danya_007
+ # Contacts
+ <p>
+  <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg">
+  <h1 align="center">danya_007</h1>
+ </p>
